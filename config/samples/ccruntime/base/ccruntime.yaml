@@ -130,3 +130,7 @@ spec:
         value: "qemu"
       - name: DEBUG
         value: "false"
+      - name: CREATE_RUNTIMECLASSES
+        value: "false"
+      - name: CREATE_DEFAULT_RUNTIMECLASS
+        value: "false"
