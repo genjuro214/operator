@@ -125,7 +125,7 @@ spec:
       - name: "CONFIGURE_CC"
         value: "yes"
       - name: SHIMS
-        value: "clh dragonball fc qemu qemu-nvidia-gpu qemu-sev qemu-snp qemu-tdx"
+        value: "qemu remote qemu-se"
       - name: DEFAULT_SHIM
         value: "qemu"
       - name: DEBUG
